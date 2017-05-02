@@ -1,4 +1,4 @@
-# Molecular Dynamics: Lennard-Jones cluster collision
+# Molecular Dynamics: A simulation of two Lennard-Jones clusters colliding.
 A simple Molecular Dynamics code written from scratch for a Computational Laboratory assignment
 
 A simple molecular dynamics program simulating the collision of two Lennard-Jones
